@@ -1,16 +1,21 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mehmet+Can+Albayram;Flutter+Developer;Mobile+%26+Backend+Systems;Building+scalable+end-to-end+products" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Mehmet Can Albayram
 
-### 🚀 Flutter Developer • Mobile & Backend Systems  
-Building scalable end-to-end applications
+### 🚀 Flutter Developer • Mobile & Backend Systems
+
+I build scalable end-to-end digital products including mobile applications, backend infrastructure, and admin panels.
 
 ---
 
 ## 🧠 About Me
 
-- 📱 Cross-platform mobile app development with Flutter
-- 🔥 Backend systems with Firebase (Firestore & Cloud Functions)
-- 🌐 Admin panel and web applications (Next.js)
-- ⚡ Focused on scalable, production-ready architectures
+- 📱 Cross-platform mobile app development with Flutter  
+- 🔥 Backend systems with Firebase (Firestore & Cloud Functions)  
+- 🌐 Admin panel and web development (Next.js)  
+- ⚡ Focused on scalable, production-ready architectures  
 
 ---
 
@@ -39,9 +44,9 @@ A scalable community platform featuring event management, business directory, an
 
 ## 🧩 Focus
 
-- Mobile systems
-- Backend architecture
-- Real-time applications
+- Mobile systems  
+- Backend architecture  
+- Real-time applications  
 
 ---
 
@@ -50,14 +55,14 @@ A scalable community platform featuring event management, business directory, an
 - Build cross-platform mobile applications  
 - Develop scalable backend systems  
 - Create admin panels for real-world products  
-- Design clean and maintainable architectures  
+- Design clean and maintainable system architectures  
 
 ---
 
 ## 🌐 Contact
 
-- 🌍 Website: https://mfadizayn.com
-- 💼 LinkedIn: https://www.linkedin.com/in/mfadizayn
+- 🌍 Website: https://mfadizayn.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mfadizayn  
 
 ---
 
