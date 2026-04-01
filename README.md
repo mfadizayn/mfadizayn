@@ -1,29 +1,31 @@
 # 👋 Hi, I'm Mehmet Can Albayram
 
 🚀 Flutter Developer | Mobile & Backend Systems  
-I build complete end-to-end applications including mobile apps, backend infrastructure, and admin panels.
+Building scalable end-to-end applications
 
 ---
 
 ## 🧠 About Me
 
-- 📱 Mobile app developer (Flutter)
-- 🔥 Firebase backend systems (Firestore & Cloud Functions)
+- 📱 Mobile app developer using Flutter (iOS & Android)
+- 🔥 Backend systems with Firebase (Firestore & Cloud Functions)
 - 🌐 Admin panel & web development (Next.js)
-- ⚡ Focused on scalable and production-ready systems
+- ⚡ Focused on scalable, production-ready architectures
 
 ---
 
 ## 🚀 Featured Project
 
-### 📱 Karakeçili Community App
-Community-based mobile application connecting people through events, business directory, and real-time updates.
+### 📱 Karakeçili Community App  
+A scalable community platform featuring event management, business directory, and real-time updates.
 
 🔗 https://github.com/mfadizayn/karakecili-community-app
 
 ---
 
 ## 🛠 Tech Stack
+
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -38,10 +40,22 @@ Community-based mobile application connecting people through events, business di
 
 ## 💡 What I Do
 
-- Build cross-platform mobile apps
+- Build cross-platform mobile applications
 - Develop scalable backend systems
 - Create admin panels for real-world applications
-- Design clean and maintainable architectures
+- Design clean and maintainable system architectures
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mfadizayn&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfadizayn&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
