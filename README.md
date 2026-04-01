@@ -1,28 +1,26 @@
 # 👋 Hi, I'm Mehmet Can Albayram
 
-### Flutter Developer | Mobile & Backend Systems
-
-I build scalable end-to-end digital products including mobile applications, backend infrastructure, and admin panels.
+### 🚀 Flutter Developer • Mobile & Backend Systems  
+Building scalable end-to-end applications
 
 ---
 
 ## 🧠 About Me
 
 - 📱 Cross-platform mobile app development with Flutter
-- 🔥 Backend systems with Firebase, Firestore, and Cloud Functions
-- 🌐 Admin panel and web interface development with Next.js
-- ⚡ Focused on clean architecture, scalability, and production-ready systems
+- 🔥 Backend systems with Firebase (Firestore & Cloud Functions)
+- 🌐 Admin panel and web applications (Next.js)
+- ⚡ Focused on scalable, production-ready architectures
 
 ---
 
 ## 🚀 Featured Project
 
-### Karakeçili Community App
+### 📱 Karakeçili Community App
 
-A community-based mobile application designed to connect people through events, business directory features, and real-time updates.
+A scalable community platform featuring event management, business directory, and real-time updates.
 
-**Project Link:**  
-[Karakeçili Community App](https://github.com/mfadizayn/karakecili-community-app)
+🔗 https://github.com/mfadizayn/karakecili-community-app
 
 ---
 
@@ -39,16 +37,28 @@ A community-based mobile application designed to connect people through events, 
 
 ---
 
+## 🧩 Focus
+
+- Mobile systems
+- Backend architecture
+- Real-time applications
+
+---
+
 ## 💡 What I Do
 
-- Build cross-platform mobile applications
-- Develop scalable backend systems
-- Create admin panels for real-world products
-- Design clean and maintainable system architectures
+- Build cross-platform mobile applications  
+- Develop scalable backend systems  
+- Create admin panels for real-world products  
+- Design clean and maintainable architectures  
 
 ---
 
 ## 🌐 Contact
 
-- **Website:** [mfadizayn.com](https://mfadizayn.com)
-- **LinkedIn:** [linkedin.com/in/mfadizayn](https://www.linkedin.com/in/mfadizayn)
+- 🌍 Website: https://mfadizayn.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mfadizayn
+
+---
+
+🚀 I build complete systems, not just applications.
