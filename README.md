@@ -1,31 +1,32 @@
 # 👋 Hi, I'm Mehmet Can Albayram
 
-🚀 Flutter Developer | Mobile & Backend Systems  
-Building scalable end-to-end applications
+### Flutter Developer | Mobile & Backend Systems
+
+I build scalable end-to-end digital products including mobile applications, backend infrastructure, and admin panels.
 
 ---
 
 ## 🧠 About Me
 
-- 📱 Mobile app developer using Flutter (iOS & Android)
-- 🔥 Backend systems with Firebase (Firestore & Cloud Functions)
-- 🌐 Admin panel & web development (Next.js)
-- ⚡ Focused on scalable, production-ready architectures
+- 📱 Cross-platform mobile app development with Flutter
+- 🔥 Backend systems with Firebase, Firestore, and Cloud Functions
+- 🌐 Admin panel and web interface development with Next.js
+- ⚡ Focused on clean architecture, scalability, and production-ready systems
 
 ---
 
 ## 🚀 Featured Project
 
-### 📱 Karakeçili Community App  
-A scalable community platform featuring event management, business directory, and real-time updates.
+### Karakeçili Community App
 
-🔗 https://github.com/mfadizayn/karakecili-community-app
+A community-based mobile application designed to connect people through events, business directory features, and real-time updates.
+
+**Project Link:**  
+[Karakeçili Community App](https://github.com/mfadizayn/karakecili-community-app)
 
 ---
 
 ## 🛠 Tech Stack
-
-<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -42,20 +43,12 @@ A scalable community platform featuring event management, business directory, an
 
 - Build cross-platform mobile applications
 - Develop scalable backend systems
-- Create admin panels for real-world applications
+- Create admin panels for real-world products
 - Design clean and maintainable system architectures
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mfadizayn&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfadizayn&layout=compact&theme=tokyonight"/>
-</p>
----
-
 ## 🌐 Contact
 
-- 🌍 Website: https://mfadizayn.com
-- 💼 LinkedIn: https://www.linkedin.com/in/mfadizayn
+- **Website:** [mfadizayn.com](https://mfadizayn.com)
+- **LinkedIn:** [linkedin.com/in/mfadizayn](https://www.linkedin.com/in/mfadizayn)
